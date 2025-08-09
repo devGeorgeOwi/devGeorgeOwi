@@ -1,61 +1,34 @@
-👋 Hey, I'm George!
-Full-Stack Developer & Open-Source Enthusiast 🌟
-I’m passionate about solving real-world problems with clean, efficient code. Whether it’s building tools to streamline workflows or experimenting with new frameworks, I thrive on turning ideas into impactful solutions.
+# Hi there, I'm George 👋
 
-What I’m Up To:
+💻 **Web Developer | Tech Educator | Aspiring Backend Engineer**  
+I specialize in creating simple yet impactful web solutions using **HTML, CSS, JavaScript, Laravel, and Node.js**.  
+Currently sharpening my backend skills while building in public to share my journey and growth.
 
-🔭 Building: Practical apps like Password Strength Checker and Covid-19 Tracker to make life easier.
+---
 
-🌱 Learning: DevOps,Web3 Development, cloud architecture, and diving deeper into Python/JavaScript ecosystems.
+### 🚀 What I’m currently working on
+- Learning advanced backend concepts with **Laravel** and **Node.js**
+- Building proof-of-work projects to showcase my skills
+- Starting content creation on web development and my tech journey
 
-💡 Tinkering: Automation scripts, API integrations, and optimizing legacy code.
+---
 
-🎯 Mission: Empower developers and communities through open-source collaboration.
+### 🛠️ Technologies & Tools
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+- **Backend:** Laravel (PHP), Node.js
+- **Other:** Git/GitHub, MySQL, MAMP, REST APIs
 
-🛠️ Tech Toolbox
-Python
-JavaScript
-Java
-React
-Node.js
-SQL
-Git
+---
 
-⚡ GitHub Highlights
-George's GitHub Stats
-Top Langs
+### 📈 My Goals
+- Master backend development in the next 12 months
+- Land a remote or hybrid tech role
+- Build a portfolio of impactful projects
 
-Fun Facts About Me:
+---
 
-🌍 Collaborator at Heart: Love working on projects like Hospital Management System to solve community challenges.
+📫 **Let's connect:**  
+[LinkedIn](https://www.linkedin.com/in/georgetechNmore) | [Twitter/X](https://x.com/georgetechNmore) | [Personal Website](https://yourwebsite.com)
 
-☕ Coffee Fueled: 90% of my code runs on espresso.
-
-🎶 Music Junkie: Synthwave playlists keep my commits flowing.
-
-📫 Let’s Connect:
-LinkedIn https://www.linkedin.com/in/george-owoicho-749a4a13b/
-Twitter
-
-🔥 Latest Obsession
-“Breaking the monolith!” Exploring microservices and containerization with Docker 🐳.
-
-🚀 Mantra
-“Code is not just logic—it’s a language for solving puzzles.”
-
-
-
-<!--
-**devGeorgeOwi/devGeorgeOwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+_"Learning in public, building for impact."_ ✨
