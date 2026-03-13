@@ -28,7 +28,7 @@ Currently sharpening my backend skills while building in public to share my jour
 ---
 
 📫 **Let's connect:**  
-[LinkedIn](https://www.linkedin.com/in/georgetechNmore) | [Twitter/X](https://x.com/georgetechNmore) | [Personal Website](https://yourwebsite.com)
+[LinkedIn](https://www.linkedin.com/in/georgetechnmore) | [Twitter/X](https://x.com/georgetechNmore) | [Personal Website](https://yourwebsite.com)
 
 ---
 _"Learning in public, building for impact."_ ✨
